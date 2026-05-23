@@ -16,21 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-```kotlin
-data class Developer(
-    val name: String       = "Eray Atılgan",
-    val role: String       = "Cross-Platform Full-Stack Developer",
-    val platforms: List<String> = listOf("Mobile (Phone)", "Desktop (PC)"),
-    val languages: List<String> = listOf("Kotlin", "C#"),
-    val stack: String      = "Database → Business Logic → UI",
-    val alwaysLearning: Boolean = true
-)
-```
-
-- 📱 **Mobile** — I build apps for **Android** (Kotlin) and **Windows Mobile** (.NET Compact Framework).
+- 📱 **Mobile** — I build apps for **Android** (Kotlin), cross-platform with **React Native + Expo**, and legacy **Windows Mobile** (.NET Compact Framework).
 - 🖥️ **Desktop** — I build Windows applications with **C# / .NET / Windows Forms**.
-- 🗄️ **Full-stack** — comfortable across the whole stack: **SQL Server / SQL Server Compact** data layer, business logic, and UI.
-- 🧩 Currently building **StockMaster** — an inventory / stock-counting suite spanning a desktop management app, a Windows Mobile handheld app, and its device installer.
+- 🗄️ **Full-stack** — comfortable across the whole stack: **SQL Server**, **Supabase / Postgres**, business logic, and UI.
+- 💊 Currently building **Pharmacy** — a React Native app for pharmacies: barcode/QR/GS1 DataMatrix scanning, inventory counting, drug info & price database, with a tiered premium model.
+- 🧩 Also building **StockMaster** — an inventory / stock-counting suite spanning a desktop management app, a Windows Mobile handheld app, and its device installer.
 - 🌱 Always learning new platforms, frameworks, and tooling.
 - 📫 Reach me on GitHub: **[@erayatilgan](https://github.com/erayatilgan)**
 
@@ -48,6 +38,10 @@ data class Developer(
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Windows Mobile](https://img.shields.io/badge/Windows%20Mobile-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
@@ -83,11 +77,12 @@ data class Developer(
 
 | Project | Description | Tech |
 |:---:|:---|:---:|
+| 💊 **Pharmacy** *(private)* | Pharmacy app — barcode/QR/GS1 scanning, drug info & price DB, inventory counting, premium tier | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 📦 **StockMaster** *(private)* | Inventory / stock-counting suite — desktop + Windows Mobile + installer | ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=c-sharp) |
 | 🛴 [**ScooterX**](https://github.com/erayatilgan/ScooterX) | E-scooter rental & sharing app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
 | 🛒 [**ShoppingApp**](https://github.com/erayatilgan/ShoppingApp) | Mobile app for a smoother shopping experience | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
 | ✈️ [**TravelApp**](https://github.com/erayatilgan/TravelApp) | Travel planning & discovery app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
 | 📝 [**NoteApp**](https://github.com/erayatilgan/NoteApp) | Note-taking & editing app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
-| 📦 **StockMaster** *(private)* | Inventory / stock-counting suite — desktop + Windows Mobile + installer | ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=c-sharp) |
 
 </div>
 
