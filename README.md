@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 📱 **Mobile** — I build apps for **Android** (Kotlin), cross-platform with **React Native + Expo**, and legacy **Windows Mobile** (.NET Compact Framework).
+- 📱 **Mobile** — I build apps for **Android** with **Kotlin + Jetpack Compose**, cross-platform with **React Native + Expo**, and legacy **Windows Mobile** (.NET Compact Framework).
 - 🖥️ **Desktop** — I build Windows applications with **C# / .NET / Windows Forms**.
 - 🗄️ **Full-stack** — comfortable across the whole stack: **SQL Server**, **Supabase / Postgres**, business logic, and UI.
 - 💊 Currently building **Pharmacy** — a React Native app for pharmacies: barcode/QR/GS1 DataMatrix scanning, inventory counting, drug info & price database, with a tiered premium model.
@@ -33,6 +33,7 @@
 <div align="center">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -79,10 +80,10 @@
 |:---:|:---|:---:|
 | 💊 **Pharmacy** *(private)* | Pharmacy app — barcode/QR/GS1 scanning, drug info & price DB, inventory counting, premium tier | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | 📦 **StockMaster** *(private)* | Inventory / stock-counting suite — desktop + Windows Mobile + installer | ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=c-sharp) |
-| 🛴 [**ScooterX**](https://github.com/erayatilgan/ScooterX) | E-scooter rental & sharing app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
-| 🛒 [**ShoppingApp**](https://github.com/erayatilgan/ShoppingApp) | Mobile app for a smoother shopping experience | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
-| ✈️ [**TravelApp**](https://github.com/erayatilgan/TravelApp) | Travel planning & discovery app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
-| 📝 [**NoteApp**](https://github.com/erayatilgan/NoteApp) | Note-taking & editing app | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat-square&logo=kotlin) |
+| 🛴 [**ScooterX**](https://github.com/erayatilgan/ScooterX) | E-scooter rental & sharing app | ![Compose](https://img.shields.io/badge/Kotlin_%2B_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| 🛒 [**ShoppingApp**](https://github.com/erayatilgan/ShoppingApp) | Mobile app for a smoother shopping experience | ![Compose](https://img.shields.io/badge/Kotlin_%2B_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| ✈️ [**TravelApp**](https://github.com/erayatilgan/TravelApp) | Travel planning & discovery app | ![Compose](https://img.shields.io/badge/Kotlin_%2B_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| 📝 [**NoteApp**](https://github.com/erayatilgan/NoteApp) | Note-taking & editing app | ![Compose](https://img.shields.io/badge/Kotlin_%2B_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
 
 </div>
 
