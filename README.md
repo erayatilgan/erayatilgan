@@ -5,8 +5,6 @@
 
 *Building apps for both **phone and PC** — from the database all the way to the UI.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=Cross-Platform+Full-Stack+Developer;Mobile+%2B+Desktop+%7C+Phone+%2B+PC;Android+(Kotlin)+%26+.NET+(C%23);From+Database+to+UI;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
 </div>
 
 ---
