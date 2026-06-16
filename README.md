@@ -7,6 +7,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=720&lines=Cross-Platform+Full-Stack+Developer;Mobile+%2B+Desktop+%7C+Phone+%2B+PC;Android+(Kotlin+%2B+Jetpack+Compose);Cross-Platform+with+React+Native+%2B+Expo;Desktop+with+C%23+%2B+Windows+Forms;From+Database+to+UI;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
+<a href="https://erayatilgan.com"><img src="https://img.shields.io/badge/Portfolio-erayatilgan.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1CB5E0" alt="Portfolio Website" /></a>
+
 </div>
 
 ---
@@ -20,6 +22,7 @@
 - 🧩 Also building **StockMaster** — an inventory / stock-counting suite spanning a desktop management app, a Windows Mobile handheld app, and its device installer.
 - 🌱 Always learning new platforms, frameworks, and tooling.
 - 📫 Reach me on GitHub: **[@erayatilgan](https://github.com/erayatilgan)**
+- 🌐 **Portfolio** — [**erayatilgan.com**](https://erayatilgan.com)
 
 ---
 
