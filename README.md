@@ -92,7 +92,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erayatilgan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=1CB5E0&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Eray Atilgan GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayatilgan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erayatilgan&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
