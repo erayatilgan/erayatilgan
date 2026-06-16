@@ -21,7 +21,6 @@
 - 💊 Currently building **Pharmacy** — a React Native app for pharmacies: barcode/QR/GS1 DataMatrix scanning, inventory counting, drug info & price database, with a tiered premium model.
 - 🧩 Also building **StockMaster** — an inventory / stock-counting suite spanning a desktop management app, a Windows Mobile handheld app, and its device installer.
 - 🌱 Always learning new platforms, frameworks, and tooling.
-- 📫 Reach me on GitHub: **[@erayatilgan](https://github.com/erayatilgan)**
 - 🌐 **Portfolio** — [**erayatilgan.com**](https://erayatilgan.com)
 
 ---
